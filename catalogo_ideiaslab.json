@@ -1,0 +1,199 @@
+{
+  "siteInfo": {
+    "brandName": "IdéiasLab",
+    "contact": {
+      "whatsapp": "https://wa.me/5511981088024",
+      "email": "ideiaslabdesigner@gmail.com"
+    },
+    "colorPalette": [
+      "#08295a",
+      "#061f4b",
+      "#04153d",
+      "#020a2e",
+      "#00001f"
+    ],
+    "typography": [
+      "Montserrat",
+      "Open Sans"
+    ]
+  },
+  "features": {
+    "heroCarousel": true,
+    "responsive": true,
+    "mockupsAI": true
+  },
+  "categories": [
+    {
+      "name": "Cartões de Visita",
+      "products": [
+        "Padrão",
+        "Metalizados",
+        "Laminados",
+        "Criativos"
+      ],
+      "mockupInstruction": "Cartões dispostos em mesa com luz suave, ângulo lateral, foco em textura."
+    },
+    {
+      "name": "Brindes Personalizados",
+      "products": [
+        "Canecas",
+        "Copos",
+        "Chaveiros",
+        "Squeezes",
+        "Necessaires"
+      ],
+      "mockupInstruction": "Brindes em fundo neutro com arte impressa visível, disposição comercial."
+    },
+    {
+      "name": "Embalagens Personalizadas",
+      "products": [
+        "Caixas",
+        "Sacolas",
+        "Tags",
+        "Fitas"
+      ],
+      "mockupInstruction": "Caixas abertas com papel de seda, sacolas com alça e logo impresso."
+    },
+    {
+      "name": "Adesivos e Rótulos",
+      "products": [
+        "Vinil",
+        "Rótulos cosméticos",
+        "Etiquetas alimentos",
+        "Resinados"
+      ],
+      "mockupInstruction": "Frascos e potes com rótulos aplicados, fundo branco suave."
+    },
+    {
+      "name": "Editorial",
+      "products": [
+        "Livros",
+        "Apostilas",
+        "Cadernos",
+        "Agendas",
+        "Blocos"
+      ],
+      "mockupInstruction": "Cadernos empilhados, livros com capa visível e ambiente de escritório."
+    },
+    {
+      "name": "Papelaria Corporativa",
+      "products": [
+        "Pastas",
+        "Timbrado",
+        "Envelopes",
+        "Talões",
+        "Cartões de fidelidade"
+      ],
+      "mockupInstruction": "Kit papelaria em mesa de reunião com marca em destaque."
+    },
+    {
+      "name": "Folders e Panfletos",
+      "products": [
+        "Dobra simples",
+        "Z",
+        "C",
+        "Promocionais"
+      ],
+      "mockupInstruction": "Panfleto aberto sobre bancada, com foco na arte impressa."
+    },
+    {
+      "name": "Calendários e Agendas",
+      "products": [
+        "Mesa",
+        "Parede",
+        "Planner",
+        "Agendas"
+      ],
+      "mockupInstruction": "Calendário de mesa em escritório com marca visível."
+    },
+    {
+      "name": "Convites",
+      "products": [
+        "Casamento",
+        "Aniversário",
+        "Corporativo",
+        "Formatura"
+      ],
+      "mockupInstruction": "Convites sobre superfície elegante, com envelope parcialmente aberto."
+    },
+    {
+      "name": "Vestuário Personalizado",
+      "products": [
+        "Camisetas",
+        "Jalecos",
+        "Uniformes",
+        "Bonés"
+      ],
+      "mockupInstruction": "Roupas em manequim ou pessoa usando em fundo claro."
+    },
+    {
+      "name": "Materiais de Propaganda",
+      "products": [
+        "Flyers",
+        "Imãs",
+        "Tags",
+        "Cartazes"
+      ],
+      "mockupInstruction": "Flyers soltos com cantos visíveis, tag presa em produto."
+    },
+    {
+      "name": "Ponto de Venda",
+      "products": [
+        "Displays",
+        "Totens",
+        "Cavaletes",
+        "Bandejas"
+      ],
+      "mockupInstruction": "Totem em loja fictícia com arte promocional."
+    },
+    {
+      "name": "Sinalização e Visual",
+      "products": [
+        "Banners",
+        "Faixas",
+        "Placas",
+        "Lonas"
+      ],
+      "mockupInstruction": "Banner em parede, faixa sobre entrada de loja."
+    },
+    {
+      "name": "Produtos Criativos",
+      "products": [
+        "Marcadores",
+        "Cartelas",
+        "Posters",
+        "Capas celular"
+      ],
+      "mockupInstruction": "Produtos criativos em cenário artístico, bem iluminado."
+    },
+    {
+      "name": "Foto Presentes",
+      "products": [
+        "Almofadas",
+        "Quebra-cabeças",
+        "Quadros",
+        "Capas de almofada"
+      ],
+      "mockupInstruction": "Foto presente com foto aplicada, sobre sofá ou bancada criativa."
+    },
+    {
+      "name": "Máscaras e Proteção",
+      "products": [
+        "Máscaras",
+        "Faixas",
+        "Sinalização de solo"
+      ],
+      "mockupInstruction": "Máscaras em manequim, faixas aplicadas em piso fictício."
+    },
+    {
+      "name": "Kits Promocionais",
+      "products": [
+        "Escritório",
+        "Boas-vindas",
+        "Escolares",
+        "Corporativos"
+      ],
+      "mockupInstruction": "Kits organizados em caixa aberta com itens visíveis."
+    }
+  ]
+}
